@@ -1,4 +1,4 @@
 ---
 redirect_to:
-  - https://github.com/jkmartindale
+  - https://twitter.com/jkmartindale
 ---
