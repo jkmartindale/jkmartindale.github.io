@@ -1,2 +1,2 @@
 # jkmartindale.github.io
-Redirect people to GitHub
+Redirect people to GitHub.
