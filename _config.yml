@@ -1,4 +1,2 @@
 plugins:
   - jekyll-redirect-from
-redirect_to:
-  - https://github.com/jkmartindale
